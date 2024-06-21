@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Minesweeper", "Kursova_robota\Minesweeper.csproj", "{AC777B16-1C24-42C6-9927-DA6BBB041643}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup MS", "Kursova Robota\Kursova Robota.vdproj", "{6407168B-5A2E-409F-BF44-A1C6876FC5BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC777B16-1C24-42C6-9927-DA6BBB041643}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC777B16-1C24-42C6-9927-DA6BBB041643}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC777B16-1C24-42C6-9927-DA6BBB041643}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC777B16-1C24-42C6-9927-DA6BBB041643}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6407168B-5A2E-409F-BF44-A1C6876FC5BB}.Debug|Any CPU.ActiveCfg = Debug
+		{6407168B-5A2E-409F-BF44-A1C6876FC5BB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7282EF39-3D1F-4C4B-8458-D8E2F853987B}
+	EndGlobalSection
+EndGlobal
